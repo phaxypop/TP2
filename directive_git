@@ -10,3 +10,11 @@ Chercher « git download » dans google pour trouver :
 https://git-scm.com/download/win vous télécharger la version windows 64-bit
 vous lancer l'instalateur qui se trouve dans le dossier téléchargement.
 Fermer Visual studio code pour le relancer ce qui permettrs à Visual studio code d'accepter Git
+pour voir l'état de votre version
+git status
+Si les fichiers aparaisent en rouge : il faut les indexer
+« git add --all »
+En de nouveau git status vous contaterez que les fichiers sont vert
+Une fois que tous les fichiers modifié passent au vert
+on peut faire un commit 
+« git commit -m "s13 début du TP2"
