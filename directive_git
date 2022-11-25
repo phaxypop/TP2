@@ -1,0 +1,12 @@
+Pour afficher la console git
+1- Sélectionne le dossier principale de voytre TP avec touche «droite de la souris»
+2- Sélectionner « ouvrir dans le terminal intégré »
+3- Créer un dêpot avec la commande « git init »
+4- Dans l'explorateur pour voir le dossier « .git » 
+qu'on appelle le « dépôt » 
+il faut sélectionner « afficchage/élément masqué» pour voir le dossier « .git »
+Si la commande git n'est pas reconnu il faut installer git
+Chercher « git download » dans google pour trouver :
+https://git-scm.com/download/win vous télécharger la version windows 64-bit
+vous lancer l'instalateur qui se trouve dans le dossier téléchargement.
+Fermer Visual studio code pour le relancer ce qui permettrs à Visual studio code d'accepter Git

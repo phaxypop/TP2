@@ -1,0 +1,45 @@
+html {
+  scroll-behavior: smooth;
+}
+body,
+section,
+h1 {
+  margin: 0;
+}
+h1 {
+}
+section {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.menu {
+  position: fixed;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.menu a {
+  display: block;
+  flex: 0 1 100px;
+}
+#accueil {
+  background-color: aqua;
+}
+#inscription {
+  background-color: blue;
+}
+#galerie {
+  background-color: bisque;
+}
+#tableau {
+  background-color: brown;
+}
+#video {
+  background-color: blueviolet;
+}
+#pied-page {
+  background-color: aquamarine;
+}
